@@ -7,7 +7,7 @@
 # 🌐 𝔽𝕚𝕟𝕕 𝕞𝕖 𝕠𝕟:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rivendell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhema-km)
 <br>
-𝑪𝒉𝒆𝒄𝒌 𝒎𝒚 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒘𝒆𝒃𝒔𝒊𝒕𝒆: https://rhemamarneni.github.io/Portfolio
+𝑪𝒉𝒆𝒄𝒌 𝒎𝒚 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒘𝒆𝒃𝒔𝒊𝒕𝒆: https://rhemamarneni.com
 <br><br>
 # 💻 𝕋𝕖𝕔𝕙 𝕋𝕠𝕠𝕝𝕜𝕚𝕥:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
