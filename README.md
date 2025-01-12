@@ -1,13 +1,14 @@
 # Ꮋꭼꮮꮮꮎ, Ꮖ'ꮇ Ꭱꮋꭼꮇꭺ
 🗣️ "_Ray-ma_" <br>
-* **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛** 𝚏𝚘𝚛 𝙼𝚎𝚍𝚃𝚎𝚌𝚑 𝚌𝚘𝚖𝚙𝚊𝚗𝚒𝚎𝚜
-* 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚏𝚛𝚘𝚖 𝚁𝚞𝚝𝚐𝚎𝚛𝚜 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢-𝙽𝚎𝚠 𝙱𝚛𝚞𝚗𝚜𝚠𝚒𝚌𝚔
-* 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎 𝚟𝚒𝚊 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗 𝚘𝚛 𝙴𝚖𝚊𝚒𝚕 (rhema.marneni@gmail.com)
+* **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛**
+* 𝙼𝚂 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 - 𝚁𝚞𝚝𝚐𝚎𝚛𝚜 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢-𝙽𝚎𝚠 𝙱𝚛𝚞𝚗𝚜𝚠𝚒𝚌𝚔
+* 𝙱.𝚃𝚎𝚌𝚑 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 & 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 - 𝙹𝙽𝚃𝚄𝙷
+* 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎 𝚟𝚒𝚊 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗 𝚘𝚛 [Email](rhema.marneni@gmail.com)
 
 # 🌐 𝔽𝕚𝕟𝕕 𝕞𝕖 𝕠𝕟:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rivendell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhema-km)
 <br>
-𝑪𝒉𝒆𝒄𝒌 𝒎𝒚 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒘𝒆𝒃𝒔𝒊𝒕𝒆: https://rhemamarneni.com
+𝑪𝒉𝒆𝒄𝒌 𝒎𝒚 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒘𝒆𝒃𝒔𝒊𝒕𝒆: https://www.rhemamarneni.com
 <br><br>
 # 💻 𝕋𝕖𝕔𝕙 𝕋𝕠𝕠𝕝𝕜𝕚𝕥:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
